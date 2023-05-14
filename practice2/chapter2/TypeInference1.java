@@ -1,6 +1,6 @@
 package chapter2;
 
-public class TypeInference {
+public class TypeInference1 {
     public static void main(String[] args) {
 
         var i = 10; // int i = 10
